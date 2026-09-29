@@ -67,5 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Satellite-Telemetry-Visual.slnx"
+    "dotnet.defaultSolution": "Satellite-Telemetry-Visual.slnx",
+    "cmake.sourceDirectory": "C:/Users/krist/Documents/GitHub/Satellite-Telemetry-Visual/CppOrbitalEngine"
 }
